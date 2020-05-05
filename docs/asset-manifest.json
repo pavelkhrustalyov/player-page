@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1f5a8df.chunk.css",
+    "main.js": "/static/js/main.da3f0131.chunk.js",
+    "main.js.map": "/static/js/main.da3f0131.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2934c6cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2934c6cf.js.map",
+    "static/js/2.37af6ec2.chunk.js": "/static/js/2.37af6ec2.chunk.js",
+    "static/js/2.37af6ec2.chunk.js.map": "/static/js/2.37af6ec2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1a8f84c1565bddcda7470d150fc0c635.js": "/precache-manifest.1a8f84c1565bddcda7470d150fc0c635.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e1f5a8df.chunk.css.map": "/static/css/main.e1f5a8df.chunk.css.map",
+    "static/js/2.37af6ec2.chunk.js.LICENSE.txt": "/static/js/2.37af6ec2.chunk.js.LICENSE.txt",
+    "static/media/dylan.mp3": "/static/media/dylan.0639b92c.mp3",
+    "static/media/miron1.mp3": "/static/media/miron1.540b9f3e.mp3",
+    "static/media/miron2.mp3": "/static/media/miron2.bb2a58b1.mp3",
+    "static/media/scorpions.mp3": "/static/media/scorpions.dfd54381.mp3",
+    "static/media/sting.mp3": "/static/media/sting.1c16762f.mp3",
+    "static/media/usher.mp3": "/static/media/usher.267774a0.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2934c6cf.js",
+    "static/js/2.37af6ec2.chunk.js",
+    "static/css/main.e1f5a8df.chunk.css",
+    "static/js/main.da3f0131.chunk.js"
+  ]
+}
